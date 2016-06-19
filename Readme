@@ -1,0 +1,3 @@
+This is the recursive implementation of Cordic Algorithm.
+It is made from scratch and includes the implementation of Barrel Shifter and Ripple Carry Adder.
+You can always use inbuilt shifters and adders using conventional >> and + operators.
